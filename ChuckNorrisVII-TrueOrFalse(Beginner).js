@@ -15,5 +15,5 @@ Go show some truth who's boss!
 */
 
 function ifChuckSaysSo() {
-    return 1 > 2; // 1 is not more than 2 thus false
+    return !true;
 }
